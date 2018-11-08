@@ -1,0 +1,7 @@
+E:\Github\MyFirstApp\MyFirstApp\bin\Debug\MyFirstApp.exe.config
+E:\Github\MyFirstApp\MyFirstApp\bin\Debug\MyFirstApp.exe
+E:\Github\MyFirstApp\MyFirstApp\bin\Debug\MyFirstApp.pdb
+E:\Github\MyFirstApp\MyFirstApp\obj\Debug\MyFirstApp.csprojResolveAssemblyReference.cache
+E:\Github\MyFirstApp\MyFirstApp\obj\Debug\MyFirstApp.csproj.CoreCompileInputs.cache
+E:\Github\MyFirstApp\MyFirstApp\obj\Debug\MyFirstApp.exe
+E:\Github\MyFirstApp\MyFirstApp\obj\Debug\MyFirstApp.pdb
